@@ -1,0 +1,102 @@
+﻿  test3.cpp
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModeAI.cpp(694,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModeAI.cpp(787,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModeAI.cpp(794,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModeAI.cpp(806,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModeAI.cpp(844,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(529,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(586,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(647,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(654,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(666,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(703,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(143,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(143,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(144,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(144,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(203,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(203,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(217,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(217,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(234,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(234,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(248,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(248,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(276,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(276,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(291,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(291,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(309,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(309,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(323,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(323,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(526,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(526,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(572,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(601,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(666,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(666,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(675,109): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(675,72): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(689,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(689,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(693,109): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(693,72): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(718,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(718,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(734,109): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(734,72): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(744,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(744,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(761,109): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\test3.cpp(761,72): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\GameModePvP.cpp(642): warning C4715: 'GameModePvP::Move': not all control paths return a value
+  test3.vcxproj -> C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\Debug\test3.exe

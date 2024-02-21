@@ -1,0 +1,56 @@
+﻿  chess.cpp
+  gameplay.cpp
+C:\Users\Admin\Documents\VS_C++\test3\gameplay.cpp(873,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\VS_C++\test3\gameplay.cpp(866,24): warning C4101: 'a': unreferenced local variable
+C:\Users\Admin\Documents\VS_C++\test3\gameplay.cpp(866,27): warning C4101: 'b': unreferenced local variable
+  test3.cpp
+C:\Users\Admin\Documents\VS_C++\test3\gameplay.cpp(873,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\VS_C++\test3\gameplay.cpp(866,24): warning C4101: 'a': unreferenced local variable
+C:\Users\Admin\Documents\VS_C++\test3\gameplay.cpp(866,27): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(66,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(66,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(67,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(67,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(167,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(167,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(211,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(240,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(277,105): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(277,68): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(281,105): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Documents\VS_C++\test3\test3.cpp(281,68): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+gameplay.obj : error LNK2005: "int (* Board)[8]" (?Board@@3PAY07HA) already defined in chess.obj
+test3.obj : error LNK2005: "int (* Board)[8]" (?Board@@3PAY07HA) already defined in chess.obj
+C:\Users\Admin\Documents\VS_C++\test3\Release\test3.exe : fatal error LNK1169: one or more multiply defined symbols found

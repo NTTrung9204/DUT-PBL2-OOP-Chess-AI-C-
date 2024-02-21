@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\VS_C++\test3\Debug\test3.exe
+C:\Users\Admin\Documents\Lập Trình\VS_C++\test3\Debug\test3.exe
